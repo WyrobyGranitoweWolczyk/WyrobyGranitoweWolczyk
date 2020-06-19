@@ -1,0 +1,837 @@
+.MainSite {
+	width: 1920px;
+	height: 1080px;
+	background: url('black 2.jpg');
+	background-size: cover;
+	margin:0 auto;
+	font-family: Lato;
+}
+.EU{
+	padding-top: 39px;
+	margin-left: 1667px;
+	font-family: Lato;
+	font-weight: 100;
+	font-size: 18px;
+	color:white;
+
+}
+
+.EUflag{
+	position: absolute;
+	width: 71px;
+	height: 43px;
+	margin-left: 1810px;
+	top: 38px;
+	background: url(ue2.png);
+}
+.References{
+	position: absolute;
+	width:1920px;
+	height: 127px;
+	top: 106px;
+	background: #101010;
+}
+.Logo{
+	width: 239px;
+	height: 94px;
+	margin-left: 67px;
+	margin-top:15px;
+	background: url(Zolw.png);
+}
+
+.CompanyName{
+	position: absolute;
+	margin-left: 351px;
+	margin-top: -59px;
+	font-family: Lato;
+	font-size: 30px;
+	line-height: 36px;
+	color: white;
+}
+
+.Offer{
+	position: absolute;
+	width: 78px;
+	height: 31px;
+	left: 1159px;
+	margin-top: -59px;
+	font-size: 20px;
+	line-height: 24px;
+	color: White;
+}
+
+.Line1{
+	position: absolute;
+	width: 34px;
+	left: 1236px;
+	margin-top: -50px;
+	border: 1px solid #FFFFFF;
+	transform: rotate(90deg);
+}
+
+.Galery{
+	position: absolute;
+	width: 88px;
+	height: 23px;
+	left: 1271px;
+	margin-top: -59px;
+	font-size: 20px;
+	line-height: 24px;
+	color:white;
+}
+
+.Line2{
+	position: absolute;
+	width: 34px;
+	left: 1354px;
+	margin-top: -50px;
+	border: 1px solid #FFFFFF;
+	transform: rotate(90deg);
+}
+
+.Services{
+	position: absolute;
+	width: 71px;
+	height: 33px;
+	left: 1387px;
+	margin-top: -59px;
+	font-family: Lato;
+	font-size: 20px;
+	line-height: 24px;
+	color:white;
+}
+
+.Line3{
+	position: absolute;
+	width: 34px;
+	left: 1458px;
+	margin-top: -50px;
+	border: 1px solid #FFFFFF;
+	transform: rotate(90deg);
+}
+
+.AboutCompany{
+	position: absolute;
+	width: 91px;
+	height: 33px;
+	left: 1492px;
+	margin-top: -59px;
+	font-family: Lato;
+	font-size: 20px;
+	line-height: 24px;
+	color:white;
+}
+
+.Line4{
+	position: absolute;
+	width: 34px;
+	left: 1580px;
+	margin-top: -50px;
+	border: 1px solid #FFFFFF;
+	transform: rotate(90deg);
+}
+
+.Contact{
+	position: absolute;
+	width: 96px;
+	height: 21px;
+	left: 1618px;
+	margin-top: -59px;
+	font-family: Lato;
+	font-size: 20px;
+	line-height: 24px;
+	color: White;
+}
+
+.Title{
+	position: absolute;
+	width: 379px;
+	height: 44px;
+	left: 970px;
+	margin-top: 422px;
+	font-weight: normal;
+	font-size: 35px;
+	line-height: 42px;
+	color: White;
+	
+}
+.MainTitle{
+	
+	position: absolute;
+	width: 751px;
+	height: 72px;
+	left: 786px;
+	margin-top: 482px;
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 60px;
+	color: #FFFFFF;
+}
+
+.ScrollDown1{
+	position: absolute;
+	width: 70px;
+	height: 64px;
+	left: 1100px;
+	top: 970px;
+	background: url(Scroll2.png);
+}
+	
+.OfferSite{
+	width: 1920px;
+	height: 1080px;
+	background: #F6F6F6;
+	background-size: cover;
+	margin:0 auto;
+	font-family: Lato;
+}
+
+.Our{
+	position: absolute;
+	left: 1112px;
+	margin-top:56px;
+	background: rgba(0, 0, 0, 0.58);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	
+}
+
+.OurOffer{
+	position: absolute;
+	left: 1057px;
+	margin-top:90px;
+	background: rgba(0, 0, 0, 0.69);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 43px;
+	line-height: 52px;
+}
+
+.CountertropHeading{
+	position: absolute;
+	left: 800px;
+	margin-top:190px;
+	background: rgba(0, 0, 0, 0.68);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+.Countertrop{
+	position: absolute;
+	width: 510px;
+	height: 286px;
+	left: 565px;
+	margin-top:230px;
+	background: url(blat2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.53);	
+}
+
+.StairsHeading{
+	position: absolute;
+	left: 1425px;
+	margin-top:190px;
+	background: rgba(0, 0, 0, 0.68);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+
+}
+
+.Stairs{
+	position: absolute;
+	width: 510px;
+	height: 286px;
+	left: 1200px;
+	margin-top:230px;
+	background: url(schody2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.53);
+}
+
+.Line4{
+	position: absolute;
+	width: 310px;
+	height: 0px;
+	left: 982px;
+	margin-top:570px;
+	border: 1px solid rgba(0, 0, 0, 0.12);
+	transform: rotate(90deg);
+	 border-width: 0.01em;
+	
+}
+
+.Line5{
+	position: absolute;
+	width: 394px;
+	height: 0px;
+	left: 940px;
+	margin-top:570px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	 border-width: 0.01em;
+}
+
+
+.WindowSillsHeading{
+	position: absolute;
+	left: 795px;
+	margin-top:580px;
+	background: rgba(0, 0, 0, 0.68);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	
+}
+
+
+
+.WindowSills{
+	position: absolute;
+	width: 510px;
+	height: 286px;
+	left: 565px;
+	margin-top:620px;
+	background: url(parapety2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.53);	
+}
+
+.Tombstone{
+	position: absolute;
+	width: 510px;
+	height: 286px;
+	left: 1200px;
+	margin-top:620px;
+	background: url(nagrobek2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.53);
+	
+}
+
+.TombstoneHeading{
+	position: absolute;
+	left: 1425px;
+	margin-top:580px;
+	background: rgba(0, 0, 0, 0.68);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+
+}
+
+.ScrollDown2{
+	position: absolute;
+	width: 70px;
+	height: 64px;
+	left: 1100px;
+	top: 2050px;
+	background: url(ScrollD2.png);
+}
+
+
+.ServicesSite{
+	width: 1920px;
+	height: 1080px;
+	background: #FFFFF;
+	background-size: cover;
+	margin:0 auto;
+	font-family: Lato;
+	
+}
+
+.Provided{
+	position: absolute;
+	left: 1045px;
+	margin-top:56px;
+	background: rgba(0, 0, 0, 0.58);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+
+}
+
+.ProvidedServices{
+	position: absolute;
+	left: 1061px;
+	margin-top:90px;
+	background: rgba(0, 0, 0, 0.69);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 43px;
+	line-height: 52px;
+	
+}
+
+.CutBorder{
+	position: absolute;
+	width: 960px;
+	height: 148px;
+	margin-top: 301px;
+	background: #101010;	
+}
+
+.CutTitle{
+	
+	position: absolute;
+	margin-top: 50px;
+	left: 300px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+.PolylineTitle{
+	position: absolute;
+	margin-top: 80px;
+	left: 365px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+
+.CutPhoto{
+	position: absolute;
+	width: 960px;
+	height: 406px;
+	left: 1156px;
+	margin-top: 180px;
+	background: url(ciecie2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+}
+	
+.PolishingPhoto{
+	position: absolute;
+	width: 960px;
+	height: 406px;
+	margin-top: 586px;
+	background: url(poler2.jpg);
+	border: 1px solid #000000;
+	box-sizing: border-box;
+}
+.PolishingBorder{
+	position: absolute;
+	width: 960px;
+	height: 148px;
+	left:1156px;
+	margin-top: 725px;
+	background: #101010;
+		
+	}
+	
+.PolishingTitle{
+	position: absolute;
+	margin-top: 50px;
+	left: 300px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+.PolishingMachineTitle
+{
+	position: absolute;
+	margin-top: 80px;
+	left: 365px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+
+.ScrollDown3{
+	position: absolute;
+	width: 70px;
+	height: 64px;
+	left: 1120px;
+	top: 3180px;
+	background: url(ScrollD3.png);
+	
+}
+	
+.GalerySite{	
+	width: 1920px;
+	height: 1080px;
+	background: #F6F6F6;
+	background-size: cover;
+	margin:0 auto;
+	font-family: Lato;
+}
+
+.GaleryTitle{
+	position: absolute;
+	left: 1068px;
+	margin-top:90px;
+	background: rgba(0, 0, 0, 0.69);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 43px;
+	line-height: 52px;
+}
+	
+.AbsoluteBlack{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 360px;
+	margin-top:230px;
+	background: url(AbsoluteBlack1.jpg);
+	
+}
+
+.Titanium{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 896px;
+	margin-top:230px;
+	background: url(Titanium1.jpg);
+	
+}
+
+.BlueInTheNight{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 1432px;
+	margin-top:230px;
+	background: url(BlueInTheNight1.jpg);
+	
+}
+
+.BlackBorder1{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.BlackBorder2{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.BlackBorder3{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.ViscountWhite{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 360px;
+	margin-top:563px;
+	background: url(VL1.jpg);
+	
+}
+
+.SandDunes{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 896px;
+	margin-top:563px;
+	background: url(SD2.jpeg);
+	
+}
+
+.BluePearlRoyal{
+	position: absolute;
+	width: 536px;
+	height: 333px;
+	left: 1432px;
+	margin-top:563px;
+	background: url(BPR1.jpg);
+	
+}
+
+.BlackBorder4{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.BlackBorder5{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.BlackBorder6{
+	position: absolute;
+	width: 536px;
+	height: 35px;
+	margin-top:140px;
+	background: #000000;
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	font-weight:lighter;
+	font-size: 19px;
+}
+
+.ScrollDown4{
+	position: absolute;
+	width: 70px;
+	height: 64px;
+	left: 1130px;
+	top: 4210px;
+	background: url(ScrollD2.png);
+}
+
+.ContactSite{
+position: absolute;
+width: 1920px;
+height: 540px;
+background: #FFFFFF;
+font-family:Lato;
+
+}
+.AboutUs{
+	position: absolute;
+	left: 561px;
+	margin-top:80px;
+	background: rgba(0, 0, 0, 0.69);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+}
+
+.BorderAboutUs{
+	position: absolute;
+	width: 960px;
+	height: 348px;
+	margin-top:190px;
+	left: 197px;
+	background: #101010;
+}
+
+.LogoAboutUs{
+	width: 225px;
+	height: 94px;
+	margin-left: 67px;
+	margin-top:125px;
+	background: url(Zolw2.png);;
+	
+}
+
+.DescriptionAbouUs{
+	position: absolute;
+	width: 509px;
+	height: 166px;
+	left: 390px;
+	margin-top:-120px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	color: White;
+}
+
+.Contact2{
+	position: absolute;
+	left: 1621px;
+	margin-top:80px;
+	background: rgba(0, 0, 0, 0.69);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 35px;
+	line-height: 52px;
+}
+
+.Data{
+	position: absolute;
+	left: 1421px;
+	margin-top:210px;
+	background: rgba(0, 0, 0, 0.79);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 52px;
+	
+}
+
+.DataDescription{
+	position: absolute;
+	width: 280px;
+	height: 24px;
+	left: 1361px;
+	text-align:center;
+	margin-top:270px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	line-height: 22px;
+
+	
+}
+
+.Line6{
+	position: absolute;
+	width: 320px;
+	height: 0px;
+	left: 1545px;
+	margin-top:350px;
+	border: 1px solid rgba(0, 0, 0, 0.12);
+	transform: rotate(90deg);
+	
+	}
+
+	
+.CallUs{
+	position: absolute;
+	left: 1821px;
+	margin-top:210px;
+	background: rgba(0, 0, 0, 0.79);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 52px;
+	
+}
+
+.DescriptionCallUs {
+	position: absolute;
+	width: 280px;
+	height: 24px;
+	left: 1756px;
+	text-align:center;
+	margin-top:270px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.WriteAnEmail{
+	position: absolute;
+	left: 1842px;
+	margin-top:300px;
+	background: rgba(0, 0, 0, 0.79);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 52px;
+	
+}
+
+.DescriptionWriteAnEmail{
+	position: absolute;
+	width: 280px;
+	height: 24px;
+	left: 1756px;
+	text-align:center;
+	margin-top:360px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.Media{
+	position: absolute;
+	left: 1875px;
+	margin-top:390px;
+	background: rgba(0, 0, 0, 0.79);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 52px;
+	
+}
+
+.FbLogo{
+	position: absolute;
+	width: 53px;
+	height: 49px;
+	left: 1880px;
+	margin-top:450px;
+
+	background: url(FB2.png);
+	
+}
